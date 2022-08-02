@@ -1,5 +1,5 @@
-name: 'Notify Team Channel'
-authro: 'Saeed'
+name: 'Notify Teams Channel'
+authro: 'XYZ ABC'
 description: 'It will send the message in MS Teams channel about the status of job'
 inputs:
   webhook_uri:
